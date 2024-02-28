@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb978b0392b6044ebbe3cbc5ce59884, type: 3}
+  m_Name: KeyBindingConfigurations
+  m_EditorClassIdentifier: 
+  <MoveLeftKey>k__BackingField: 97
+  <MoveRightKey>k__BackingField: 100
+  <JumpKey>k__BackingField: 107
+  <DashKey>k__BackingField: 108
+  <CrouchKey>k__BackingField: 0
+  <AttackKey>k__BackingField: 106
+  <HealKey>k__BackingField: 0
